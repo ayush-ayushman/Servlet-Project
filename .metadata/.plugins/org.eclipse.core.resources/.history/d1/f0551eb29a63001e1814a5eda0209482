@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<form>
+Name:<input type="text" name="nm"/>
+     <br></br>
+     <input type="submit"/>
+     <br></br>
+</form>
+
+</body>
+</html>

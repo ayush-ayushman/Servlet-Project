@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Redirect/src/main/webapp/second.jsp&apos; to &apos;apple.jsp&apos;" description="Rename resource &apos;second.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/second.jsp" name="apple.jsp" stamp="1696579533159" updateReferences="true"/>
+</session>

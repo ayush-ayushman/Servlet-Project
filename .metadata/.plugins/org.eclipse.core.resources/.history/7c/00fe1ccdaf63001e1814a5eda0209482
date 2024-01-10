@@ -1,0 +1,24 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ page import="java.util.*" %>
+<%@ page errorPage="errortwo.jsp"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<%!
+  int x=10;
+  int y=0;
+%>
+
+<%
+
+  int z=x/y;
+%>
+<%= z %>
+<%= z %>
+</body>
+</html>

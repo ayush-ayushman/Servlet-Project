@@ -1,0 +1,24 @@
+package com.ty;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import jakarta.servlet.GenericServlet;
+import jakarta.servlet.ServletException;
+import jakarta.servlet.ServletRequest;
+import jakarta.servlet.ServletResponse;
+import jakarta.servlet.annotation.WebServlet;
+@WebServlet("/login")
+public class Firsttrail extends GenericServlet  {
+
+	
+	public void service(ServletRequest req, ServletResponse resp) throws ServletException, IOException {
+		String n=req.getParameter("nm");
+		String p=req.getParameter("pl");
+		PrintWriter op=resp.getWriter();
+		op.println("<html><head><body>Namr:+ +n</body></head></html>");
+		
+		
+	}
+	
+}

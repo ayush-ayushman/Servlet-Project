@@ -1,0 +1,21 @@
+package com.ty;
+
+import jakarta.servlet.jsp.JspException;
+import jakarta.servlet.jsp.tagext.TagSupport;
+
+public class CustomTagArrtibute extends TagSupport{
+	@Override
+	public int doStartTag() throws JspException {
+		try {
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+		
+		
+		
+		return SKIP_BODY;
+	}
+
+}

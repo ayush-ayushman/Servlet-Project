@@ -1,0 +1,19 @@
+package com.ty;
+
+import jakarta.servlet.jsp.JspException;
+import jakarta.servlet.jsp.JspWriter;
+import jakarta.servlet.jsp.tagext.TagSupport;
+
+public class MyTagHandler extends TagSupport{
+	@Override
+	public int doStartTag() throws JspException {
+		try {
+			JspWriter out=pageContext.getOut();
+			
+		} catch (Exception e) {
+			
+		}
+		return SKIP_BODY;
+	}
+
+}

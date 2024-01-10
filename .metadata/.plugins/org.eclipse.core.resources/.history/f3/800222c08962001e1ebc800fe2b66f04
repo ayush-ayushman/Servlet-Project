@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="login">
+Name:<brname="nm" type="text" >
+	<br></br>
+Place:<name="pl" type="text>"
+   <br></br>
+</form>
+</form>
+</body>
+</html>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v10.1 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v10.1 Server at localhost" name="Tomcat v10.1 Server at localhost" runtime-id="apache-tomcat-10.1.8" server-type="org.eclipse.jst.server.tomcat.101" server-type-id="org.eclipse.jst.server.tomcat.101" start-timeout="60" stop-timeout="15" testEnvironment="true" timestamp="7">
+    <list key="modules" value0="ExamJsp::org.eclipse.jst.jee.server:ExamJsp::jst.web::4.0" value1="FirstPro::org.eclipse.jst.jee.server:FirstPro::jst.web::4.0" value2="PostMethod::org.eclipse.jst.jee.server:PostMethod::jst.web::4.0" value3="TrailProject::org.eclipse.jst.jee.server:TrailProject::jst.web::4.0" value4="SessionTracking::org.eclipse.jst.jee.server:SessionTracking::jst.web::4.0" value5="UrlRwriting::org.eclipse.jst.jee.server:UrlRwriting::jst.web::4.0" value6="JspExample::org.eclipse.jst.jee.server:JspExample::jst.web::4.0" value7="CustomTag::org.eclipse.jst.jee.server:CustomTag::jst.web::4.0" value8="Redirect::org.eclipse.jst.jee.server:Redirect::jst.web::4.0" value9="HospitalManagement::org.eclipse.jst.jee.server:HospitalManagement::jst.web::4.0"/>
+  </server>
+</servers>

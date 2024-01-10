@@ -1,0 +1,7 @@
+package com.ty;
+
+import jakarta.servlet.GenericServlet;
+
+public class Servlet1 extends GenericServlet {
+
+}
